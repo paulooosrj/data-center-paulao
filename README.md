@@ -1,6 +1,8 @@
 BurningPig
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PaulaoDev/data-center-paulao.svg)](https://greenkeeper.io/)
+
 ![burningpig](http://joedoyle.us/burningpig.png)
 
 ###A Minecraft 1.7.2 Server in Node.js
